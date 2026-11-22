@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="216" viewBox="0 0 830 216" role="img" aria-label="kyomu12 — терминал: whoami, now.md, skills">
+<title>kyomu12 — терминал: whoami, now.md, skills</title>
+<style>text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+.ln { opacity: 0; animation: lnshow .01s linear forwards; }
+.cursor { animation: blink 1.1s steps(1) infinite; }
+@keyframes lnshow { to { opacity: 1; } }
+@keyframes blink { 50% { opacity: 0; } }
+@media (prefers-reduced-motion: reduce) { .ln { opacity: 1; animation: none; } .cursor { animation: none; } }</style>
+<rect width="830" height="216" rx="10" fill="#050b14"/>
+<rect x="10" y="10" width="810" height="30" rx="6" fill="#0e1f3a"/>
+<circle cx="24" cy="25" r="3.5" fill="#ff5f57" opacity="0.85"/>
+<circle cx="38" cy="25" r="3.5" fill="#febc2e" opacity="0.85"/>
+<circle cx="52" cy="25" r="3.5" fill="#28c840" opacity="0.85"/>
+<text x="68" y="29" font-size="11" fill="#5281de" textLength="132" lengthAdjust="spacingAndGlyphs">kyomu@novosibirsk: ~</text>
+<text class="ln" style="animation-delay:0.50s" x="24" y="56" font-size="12" fill="#f0c27a" textLength="14.399999999999999" lengthAdjust="spacingAndGlyphs">$ </text>
+<clipPath id="clip0"><rect x="39" y="41" width="0" height="19"><animate attributeName="width" from="0" to="46.199999999999996" dur="0.35s" begin="0.65s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#clip0)"><text x="40" y="56" font-size="12" fill="#acc2de" textLength="43.199999999999996" lengthAdjust="spacingAndGlyphs">whoami</text></g>
+<text class="ln" style="animation-delay:1.30s" x="40" y="78" font-size="12" fill="#5281de" textLength="50.4" lengthAdjust="spacingAndGlyphs">kyomu12</text>
+<text class="ln" style="animation-delay:2.60s" x="24" y="100" font-size="12" fill="#f0c27a" textLength="14.399999999999999" lengthAdjust="spacingAndGlyphs">$ </text>
+<clipPath id="clip1"><rect x="39" y="85" width="0" height="19"><animate attributeName="width" from="0" to="75" dur="0.50s" begin="2.75s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#clip1)"><text x="40" y="100" font-size="12" fill="#acc2de" textLength="72" lengthAdjust="spacingAndGlyphs">cat now.md</text></g>
+<text class="ln" style="animation-delay:3.55s" x="40" y="122" font-size="12" fill="#5281de" textLength="216" lengthAdjust="spacingAndGlyphs">frontend · новосибирск · utc+7</text>
+<text class="ln" style="animation-delay:4.70s" x="24" y="144" font-size="12" fill="#f0c27a" textLength="14.399999999999999" lengthAdjust="spacingAndGlyphs">$ </text>
+<clipPath id="clip2"><rect x="39" y="129" width="0" height="19"><animate attributeName="width" from="0" to="82.2" dur="0.55s" begin="4.8500000000000005s" fill="freeze"/></rect></clipPath>
+<g clip-path="url(#clip2)"><text x="40" y="144" font-size="12" fill="#acc2de" textLength="79.2" lengthAdjust="spacingAndGlyphs">ls ~/skills</text></g>
+<text class="ln" style="animation-delay:5.70s" x="40" y="166" font-size="12" fill="#5281de" textLength="324" lengthAdjust="spacingAndGlyphs">typescript  react  next.js  drizzle  postgres</text>
+<text class="ln" style="animation-delay:6.80s" x="24" y="188" font-size="12" fill="#f0c27a" textLength="14.399999999999999" lengthAdjust="spacingAndGlyphs">$ </text>
+<rect class="cursor" x="54.4" y="177" width="8" height="15" fill="#f0c27a"/>
+</svg>
